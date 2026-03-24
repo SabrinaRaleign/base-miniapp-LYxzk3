@@ -1,9 +1,9 @@
 import { createConfig, http } from "wagmi";
 import { base } from "wagmi/chains";
-import { Attribution } from "ox/erc8021";
 import { coinbaseWallet, injected } from "wagmi/connectors";
 
 // TODO: 验证完 meta 标签后，将此处替换为实际的 BUILDER_CODE
+// import { Attribution } from "@ox-org/ox/erc8021";
 // const DATA_SUFFIX = Attribution.toDataSuffix({
 //   codes: ["bc_XXXXXX"],  // 替换为实际的 Builder Code
 // });
