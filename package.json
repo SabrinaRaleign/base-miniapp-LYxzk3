@@ -14,7 +14,6 @@
     "react-dom": "^19",
     "wagmi": "^2.15.3",
     "viem": "^2.45.0",
-    "@ox-org/ox": "^0.1.2",
     "@tanstack/react-query": "^5.62.14"
   },
   "devDependencies": {
