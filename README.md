@@ -29,3 +29,11 @@ Badge progression follows a tiered path from Starter to Diamond.
 - Badge levels: Starter, Bronze, Silver, Gold, and Diamond
 - Milestone-based badge minting
 - Base Sepolia support
+- ERC-721 contract integration
+- Modern Next.js application structure
+- Wallet interaction through Wagmi and Viem
+
+## Tech Stack
+
+- Next.js 15
+- Wagmi v2
