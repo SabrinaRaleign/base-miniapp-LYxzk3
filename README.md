@@ -37,3 +37,10 @@ Badge progression follows a tiered path from Starter to Diamond.
 
 - Next.js 15
 - Wagmi v2
+- Viem v2.45+
+- Base Sepolia
+
+## Contract
+
+- Address: `0xe17d104d62208128217b5ce10031b1b5682fcc64`
+- Type: ERC-721
