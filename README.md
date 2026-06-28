@@ -21,3 +21,11 @@ The app tracks streak progress and awards badges at defined milestones.
 Badge progression follows a tiered path from Starter to Diamond.
 
 ## Features
+
+- Daily check-in flow
+- 24-hour cooldown between check-ins
+- Streak tracking
+- Progressive badge tiers
+- Badge levels: Starter, Bronze, Silver, Gold, and Diamond
+- Milestone-based badge minting
+- Base Sepolia support
