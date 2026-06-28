@@ -13,3 +13,11 @@ https://github.com/SabrinaRaleign/base-miniapp-LYxzk3.git
 ## Overview
 
 This project provides a daily check-in experience for Base Sepolia.
+
+Users can check in every 24 hours.
+
+The app tracks streak progress and awards badges at defined milestones.
+
+Badge progression follows a tiered path from Starter to Diamond.
+
+## Features
