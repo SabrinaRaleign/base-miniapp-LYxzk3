@@ -52,3 +52,11 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/SabrinaRaleign/base-miniapp-LYxzk3.git
+cd base-miniapp-LYxzk3
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
