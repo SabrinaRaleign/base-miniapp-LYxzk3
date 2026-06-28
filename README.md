@@ -68,3 +68,11 @@ npm run dev
 ```
 
 Open the app in your browser:
+
+```text
+http://localhost:3000
+```
+
+## Usage
+
+1. Open the application.
