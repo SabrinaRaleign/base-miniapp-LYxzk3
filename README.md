@@ -44,3 +44,11 @@ Badge progression follows a tiered path from Starter to Diamond.
 
 - Address: `0xe17d104d62208128217b5ce10031b1b5682fcc64`
 - Type: ERC-721
+- Network: Base Sepolia
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/SabrinaRaleign/base-miniapp-LYxzk3.git
