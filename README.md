@@ -122,3 +122,10 @@ Build the application:
 
 ```bash
 npm run build
+```
+
+Start the production build locally:
+
+```bash
+npm run start
+```
