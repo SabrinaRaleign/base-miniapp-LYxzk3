@@ -99,3 +99,9 @@ Each tier represents continued check-in progress.
 This app is configured for Base Sepolia.
 
 Make sure your connected wallet is using the correct network before interacting with the contract.
+
+The contract address is already listed above for reference.
+
+If you change networks, contracts, or deployment targets, update the configuration and documentation together.
+
+## Available Scripts
