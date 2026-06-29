@@ -91,3 +91,11 @@ The badge system uses five tiers:
 - Silver
 - Gold
 - Diamond
+
+Each tier represents continued check-in progress.
+
+## Development Notes
+
+This app is configured for Base Sepolia.
+
+Make sure your connected wallet is using the correct network before interacting with the contract.
