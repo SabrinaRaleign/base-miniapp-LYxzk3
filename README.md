@@ -105,3 +105,11 @@ The contract address is already listed above for reference.
 If you change networks, contracts, or deployment targets, update the configuration and documentation together.
 
 ## Available Scripts
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the local development server:
