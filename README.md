@@ -145,3 +145,11 @@ Common areas to review include:
 ## Notes
 
 This project is intended for development and testing on Base Sepolia.
+
+Review the contract configuration before deploying to another environment.
+
+Keep dependency versions aligned with the listed tech stack unless the app is intentionally upgraded.
+
+## License
+
+No license information is currently provided in the original project documentation.
