@@ -129,3 +129,12 @@ Start the production build locally:
 ```bash
 npm run start
 ```
+
+## Project Structure
+
+The exact structure may vary as the project evolves, but this app follows a standard Next.js workflow.
+
+Common areas to review include:
+
+- Application routes and pages
+- Wallet and chain configuration
