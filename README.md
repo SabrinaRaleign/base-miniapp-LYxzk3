@@ -83,3 +83,11 @@ http://localhost:3000
 6. Unlock higher badge tiers as milestones are reached.
 
 ## Badge Progression
+
+The badge system uses five tiers:
+
+- Starter
+- Bronze
+- Silver
+- Gold
+- Diamond
