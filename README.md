@@ -113,3 +113,12 @@ npm install
 ```
 
 Run the local development server:
+
+```bash
+npm run dev
+```
+
+Build the application:
+
+```bash
+npm run build
