@@ -138,3 +138,10 @@ Common areas to review include:
 
 - Application routes and pages
 - Wallet and chain configuration
+- Contract interaction logic
+- UI components for check-in status and badge progress
+- Styling and layout files
+
+## Notes
+
+This project is intended for development and testing on Base Sepolia.
