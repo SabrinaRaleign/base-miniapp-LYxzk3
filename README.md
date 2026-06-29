@@ -76,3 +76,10 @@ http://localhost:3000
 ## Usage
 
 1. Open the application.
+2. Connect a supported wallet.
+3. Use the check-in action when available.
+4. Wait for the 24-hour cooldown before checking in again.
+5. Continue checking in daily to grow your streak.
+6. Unlock higher badge tiers as milestones are reached.
+
+## Badge Progression
